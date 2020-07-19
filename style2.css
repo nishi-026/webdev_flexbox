@@ -1,0 +1,25 @@
+.square {
+    width: 33.33px;
+    height: 25opx;
+    border-color: 105px solid black;
+    margin-top: 100px;
+    margin-left: 102px;
+    padding-left: 230px;
+    flex: 36.33%;
+    padding: 25px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    vertical-align: 10px;
+}
+
+.img {
+    border: 10px solid #ddd;
+    border-width: 1px;
+    border-color: black;
+    height: 350;  
+    width: 350px;
+}
